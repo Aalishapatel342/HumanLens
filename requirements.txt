@@ -1,0 +1,10 @@
+Django==4.2.0
+djangorestframework==3.14.0
+python-dotenv==1.0.0
+scikit-learn==1.2.2
+numpy==1.24.3
+transformers==4.30.0
+torch==2.0.0
+requests==2.31.0
+whitenoise==6.4.0
+cors-headers==4.0.0
